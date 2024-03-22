@@ -87,5 +87,3 @@ For any questions, issues, or assistance contact me at oundel.store@gmail.com or
 - [Libp2p Documentation](https://libp2p.io/)
 - [UnixFS Documentation](https://github.com/ipfs/js-ipfs-unixfs)
 - [Node.js](https://nodejs.org/)
-
-```
